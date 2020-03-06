@@ -1,0 +1,27 @@
+{
+   "indicators":[
+      {
+         "id":"i_1",
+         "name":"Indicator 01",
+         "values":[
+            {
+               "time":{
+                  "type":"M",
+                  "value":201901
+               },
+               "place":"FR-IDF-0001",
+               "value":1.2
+            }
+         ],
+         "related":[
+            {
+               "id":"i_50",
+               "name":"Indicator 50"
+            }
+         ],
+         "components":[
+
+         ]
+      }
+   ]
+}
