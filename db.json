@@ -3,7 +3,7 @@
       {
          "id":"i_1",
          "name":"Indicator 01",
-         "description": "The description for Indicator 01",
+         "description":"The description for Indicator 01",
          "values":[
             {
                "time":{
@@ -19,7 +19,8 @@
             {
                "id":"i_50",
                "name":"Indicator 50",
-               "description": "The description for Indicator 50",
+               "description":"The description for Indicator 50",
+               "values":[]
             }
          ],
          "components":[
