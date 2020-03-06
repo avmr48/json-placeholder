@@ -7,7 +7,7 @@
          "values":[
             {
                "time":{
-                  "type":"M",
+                  "type":"m",
                   "value":201901
                },
                "place":"FR-IDF-0001",
@@ -20,7 +20,38 @@
                "id":"i_50",
                "name":"Indicator 50",
                "description":"The description for Indicator 50",
-               "values":[]
+               "values":[
+
+               ]
+            }
+         ],
+         "components":[
+
+         ]
+      },
+      {
+         "id":"i_2",
+         "name":"Indicator 02",
+         "description":"The description for Indicator 02",
+         "values":[
+            {
+               "time":{
+                  "type":"m",
+                  "value":201901
+               },
+               "place":"FR-IDF-0001",
+               "value":2.5,
+               "goals":3.0
+            }
+         ],
+         "related":[
+            {
+               "id":"i_51",
+               "name":"Indicator 51",
+               "description":"The description for Indicator 51",
+               "values":[
+
+               ]
             }
          ],
          "components":[
